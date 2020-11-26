@@ -1,0 +1,12 @@
+<svg  width="614" height="621" viewBox="0 0 614 621">
+  <g id="hero-section" transform="translate(-952 -284)">
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="157" height="157" rx="28" transform="translate(1259 284)" fill="#6e00ff"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="157" height="157" rx="28" transform="translate(1259 591)" fill="#6e00ff"/>
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="157" height="157" rx="28" transform="translate(1409 441)" fill="#6e00ff" opacity="0.3"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="157" height="157" rx="38" transform="translate(1109 441)" fill="#fcfcfc"/>
+    <path id="Path_2" data-name="Path 2" d="M38,0h81a38,38,0,0,1,38,38v81a38,38,0,0,1-38,38H38A38,38,0,0,1,0,119V38A38,38,0,0,1,38,0Z" transform="translate(1102 748)" fill="#fcfcfc"/>
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="157" height="157" rx="30" transform="translate(952 591)" fill="#fcfcfc" opacity="0.37"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="75" cy="75" r="75" transform="translate(1259 441)" fill="#ff64ed" opacity="0.54"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="75" cy="75" r="75" transform="translate(1109 598)" fill="#09c1ef" opacity="0.54"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg width="56" height="109" viewBox="0 0 56 109">
+  <g id="jumping" transform="translate(-130 -578)">
+    <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(130 578)" fill="none" stroke="#fcf5f5" stroke-width="8">
+      <rect width="56" height="109" rx="28" stroke="none"/>
+      <rect x="4" y="4" width="48" height="101" rx="24" fill="none"/>
+    </g>
+    <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="12.5" cy="12" rx="12.5" ry="12" transform="translate(146 598)" fill="#fff"/>
+  </g>
+</svg>
